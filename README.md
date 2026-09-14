@@ -123,6 +123,15 @@ Prefer one platform per connection? Every platform also has its own server:
 - [X Ads](https://github.com/Insightful-Pipe/x-ads-mcp-server)
 - [YouTube Analytics](https://github.com/Insightful-Pipe/youtube-mcp-server)
 
+## Control What Your AI Can Do
+
+You decide what AI agents can do with each connected account, across every platform in your workspace:
+
+- **Turn individual actions on or off** for every connected account, so agents only see the actions you allow.
+- **Connect as Read-only or Read & Write.** A read-only connection can only enable read actions.
+- **Destructive actions stay off by default.** Actions such as deletes are disabled until an admin enables them.
+- **Team access per account.** Restricted team members only use the accounts they are granted, with the read actions enabled on them.
+
 ## Usage Examples
 
 ```
@@ -136,6 +145,11 @@ Prefer one platform per connection? Every platform also has its own server:
 ```
 "List every data source connected to my workspace"
 ```
+
+## Ready-Made Skills and Prompts
+
+- [Claude marketing skills](https://insightfulpipe.com/marketing-claude-skills) — ready-made skills for Google Ads, Meta Ads, LinkedIn, TikTok, SEO and measurement
+- [Marketing prompt library](https://insightfulpipe.com/marketing-prompts-library) — prompts for ads, SEO, social and analytics workflows
 
 ## Explore More MCP Servers by Insightful Pipe
 
